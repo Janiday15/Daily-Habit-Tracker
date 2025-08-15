@@ -1,22 +1,29 @@
 # Daily Habit Tracker
 
-A helpful web app designed to support students in managing their daily activities, reducing overwhelm, and staying on track with their goals.
+## Overview
+
+The Daily Habit Tracker is a web app designed to help students manage daily activities, stay organized, and reduce overwhelm. Users can check off completed tasks, track progress, and view motivational notes—all in a clean, kid-friendly interface.
 
 ## Features
 
-- Navigate through a list of days with daily activities to complete  
-- Check off completed tasks for each day to track progress  
-- View encouraging notes and helpful reminders alongside the checklist  
-- Simple, clean interface focused on motivation and organization
+- Navigate through daily activity lists
+- Track completed tasks with checkboxes
+- View encouraging notes and reminders
+- Simple, responsive, and motivational interface
 
-## How to Use
+## Screenshots
+<img width="1440" height="811" alt="HomeScreen1" src="https://github.com/user-attachments/assets/cbf9f2c7-ce8e-44da-b881-665db1c545e8" />
 
-1. Open the project folder in VS Code or your preferred code editor.  
-2. Open `index.html` in a web browser to run the app locally.  
-3. Use the checkboxes to mark daily activities as complete.  
-4. Click through different days to manage your weekly habits and view notes.  
+## How to Run the App
 
-*No special installation needed — just open the HTML file in a browser!*
+Follow these simple steps to run the app locally:
+
+1. Clone the repository:  
+   `git clone https://github.com/Janiday15/Daily-Habit-Tracker.git`
+2. Navigate into the project folder: 
+3. Open the app in a browser:  
+   - Double-click `index.html` or open it via your preferred browser
+4. Start tracking your daily habits!
 
 ## Technologies Used
 
